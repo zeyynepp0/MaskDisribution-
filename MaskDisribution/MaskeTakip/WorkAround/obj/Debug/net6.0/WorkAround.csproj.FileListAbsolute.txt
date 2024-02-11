@@ -1,0 +1,14 @@
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.deps.json
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.runtimeconfig.json
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.dll
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\bin\Debug\net6.0\WorkAround.pdb
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.AssemblyInfoInputs.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.AssemblyInfo.cs
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.dll
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\refint\WorkAround.dll
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.pdb
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\WorkAround.genruntimeconfig.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\Udemy C#\MaskeTakip\WorkAround\obj\Debug\net6.0\ref\WorkAround.dll
